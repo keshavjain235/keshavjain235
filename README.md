@@ -5,7 +5,6 @@
 ## Contact Me
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4.5%"/>](https://www.linkedin.com/in/keshavjain235) [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="4.5%"/>](https://www.instagram.com/keshavjain235)
 
-<br/><br/>
 
 - 🔭 I’m currently working on BidLocal startup.
 - 🌱 I’m currently learning React.
