@@ -1,21 +1,17 @@
-### Hi I'm Keshav Jain 👋
+### Hi! 👋🏻
 
-<a href="https://www.linkedin.com/in/keshavjain235">
-  <img align="left" alt="Keshav's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/keshavjain235">
-  <img align="left" alt="Keshav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+## I'm Keshav Jain
 
-<br/>
+## Contact Me
+  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4.5%"/>](https://www.linkedin.com/in/keshavjain235) [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="4.5%"/>](https://www.instagram.com/keshavjain235)
+
+<br/><br/>
 
 - 🔭 I’m currently working on BidLocal startup.
 - 🌱 I’m currently learning React.
-- 👯 I’m looking to collaborate on Real-time Industrial Projects.
 - 💬 Ask me about anything related to Web Development.
 - 📫 How to reach me: keshav.jain2354@gmail.com
 - 😄 Hobbies: Music 🎵
 
+## Crunching The Numbers
 ![Keshav's github stats](https://github-readme-stats.vercel.app/api?username=keshavjain235&count_private=true&show_icons=true&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavjain235)
