@@ -1,22 +1,21 @@
-### Hi there 👋
+### Hi I'm Keshav Jain 👋
 
-README in Progress ...
+<a href="www.linkedin.com/in/keshavjain235">
+  <img align="left" alt="Keshav's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/keshavjain235">
+  <img align="left" alt="Keshav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
-[![Keshav's github stats](https://github-readme-stats.vercel.app/api?username=keshavjain235&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavjain235)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on BidLocal startup.
+- 🌱 I’m currently learning React.
+- 👯 I’m looking to collaborate on Real-time Industrial Projects.
+- 💬 Ask me about anything related to Web Development.
+- 📫 How to reach me: keshav.jain2354@gmail.com
+- 😄 Hobbies: Music 🎵
 
-<!--
-**keshavjain235/keshavjain235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Keshav's github stats](https://github-readme-stats.vercel.app/api?username=keshavjain235&count_private=true&show_icons=true&hide_border=true)]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavjain235)]
