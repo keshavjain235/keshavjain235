@@ -7,7 +7,7 @@
 [<img src="https://sourcerer.io/icons/logo-sharing.svg" width="4.5%" alt="Sourcerer">](https://sourcerer.io/keshavjain235)
 
 
-- 🔭 I’m currently working on BidLocal startup.
+- 🔭 I’m currently working on an e-commerce startup.
 - 🌱 I’m currently learning React.
 - 💬 Ask me about anything related to Web Development.
 - 📫 How to reach me: keshav.jain2354@gmail.com
