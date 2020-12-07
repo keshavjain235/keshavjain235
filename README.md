@@ -2,9 +2,9 @@
 
 ## I'm Keshav Jain
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4.5%"/>](https://www.linkedin.com/in/keshavjain235)
+[<img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="5%"/>](https://www.linkedin.com/in/keshavjain235)
 
-[<img src="https://sourcerer.io/icons/logo-sharing.svg" width="4.5%" alt="Sourcerer">](https://sourcerer.io/keshavjain235)
+[<img src=https://user-images.githubusercontent.com/20287615/34189346-d426d4c2-e4ef-11e7-9da4-cc76a1ed111d.png alt="Sourcerer" width="4%">](https://sourcerer.io/keshavjain235)
 
 
 - 🔭 I’m currently working on an e-commerce startup.
