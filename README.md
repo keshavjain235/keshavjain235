@@ -1,9 +1,10 @@
 ### Hi! 👋🏻
 
-## I'm Keshav Jain &nbsp; [<img src="link.png" height="20px"/>](https://keshavjain235.web.app)
+## I'm Keshav Jain
 
-[<img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="5%"/>](https://www.linkedin.com/in/keshavjain235)
-
+[<img src="https://i.pinimg.com/originals/64/4a/bc/644abc432477e5ff0a92cd6ba8e6d2eb.png" width="5%"/>](https://keshavjain235.web.app)&emsp;
+[<img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="5%"/>](https://www.linkedin.com/in/keshavjain235)&emsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="5%"/>](https://www.hackerrank.com/keshavjain235)
 
 - 🔭 I’m currently working on an e-commerce startup.
 - 🌱 I’m currently learning React.
