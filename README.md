@@ -13,7 +13,7 @@
 - 😄 Hobbies: Music 🎵
 
 <img src="https://github-readme-stats.vercel.app/api?username=keshavjain235&count_private=true&show_icons=true&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavjain235&exclude_repo=HealthCare-ML,Flight-Fare-Predictor,HackNITP3.0" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavjain235&exclude_repo=HealthCare-ML,Flight-Fare-Predictor,HackNITP3.0,hackdata" />
 
 <p>
   <img src="https://img.shields.io/badge/java-11B48A.svg?&style=for-the-badge&logo=java&logoColor=white" height="25"/>
