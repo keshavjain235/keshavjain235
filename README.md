@@ -6,8 +6,8 @@
 [<img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="5%"/>](https://www.linkedin.com/in/keshavjain235)&emsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="5%"/>](https://www.hackerrank.com/keshavjain235)
 
-- 🔭 I’m currently working on an e-commerce startup.
-- 🌱 I’m currently learning React.
+- 🔭 I’m currently working with&nbsp;&nbsp;[<img src="https://maqsoftware.com/images/logos/MAQ-logo.png" width="12.5%" />](https://maqsoftware.com)&nbsp;&nbsp;as an Associate Software Engineer.
+- 🌱 I’m currently learning MERN Stack.
 - 💬 Ask me about anything related to Web Development.
 - 📫 How to reach me: keshav.jain2354@gmail.com
 - 😄 Hobbies: Music 🎵
